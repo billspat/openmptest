@@ -1,0 +1,3 @@
+C code by John Burkardt was taken from https://people.sc.fsu.edu/~jburkardt/c_src/prime_openmp/prime_openmp.html 
+who has a fantastic collection of example parallel codes in several languages.
+
