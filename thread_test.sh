@@ -20,7 +20,8 @@ echo -------------
 
 echo .
 echo TIMING test of prime_openmp with various num of threads
-echo to find number of primes < 500000
+echo to find number of primes less than 500000
+echo note program will run for a long time at first before you see output
 echo ------------
 for THREADCOUNT in 1 2 4 8 16
 do 
